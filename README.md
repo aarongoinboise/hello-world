@@ -1,2 +1,2 @@
 # hello-world
-This is step 1 of the 4.2 assignment in CS-HU 250
+My name is Aaron Goin. I am a Computer Science student at Boise State. When I am not busy with school, I like to play basketball, watch funny movies, and listen to music. 
